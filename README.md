@@ -2,7 +2,7 @@
 
 ![Coding Banner](https://source.unsplash.com/1600x400/?coding,developer)
 
-> 💻 Backend developer & bot maker. I love fast APIs, clean code and smooth interfaces.  
+> 💻 Backend developer & bot maker.  
 > 🚀 Always open to exciting projects and collaborations!
 
 ---
@@ -31,7 +31,7 @@
 
 ## 📂 What I Do
 - 🌐 Building REST APIs (FastAPI, Gin)  
-- 🤖 Telegram bots (Aiogram, FSM, inline buttons, file processing)  
+- 🤖 Telegram bots (Aiogram, TeleBot)  
 - 🎨 Web apps with authentication (Vue/Nuxt)  
 - 🗄 Database integration with Postgres, migrations & optimization  
 
