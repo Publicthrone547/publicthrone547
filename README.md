@@ -9,10 +9,10 @@
 
 ## ✨ About Me
 - 🔹 Python (Flask, FastAPI)  
-- 🤖 Telegram bots with Aiogram  
+- 🤖 Telegram bots with Python-Aiogram, Go-TeleBot
 - 🔹 Golang (Gin)  
 - 🎨 Frontend: Vue.js & Nuxt.js  
-- 🗄 PostgreSQL — my favorite database  
+- 🗄 PostgreSQL — database
 
 ---
 
@@ -37,22 +37,6 @@
 
 ---
 
-## 🖼 Some Visuals
-![Laptop](https://source.unsplash.com/1200x400/?laptop,programming)
-![Server](https://source.unsplash.com/1200x400/?server,technology)
-![Code](https://source.unsplash.com/1200x400/?code,developer)
-
----
-
 ## 📬 Contact Me
 - 📧 **publicthrone547@gmail.com**  
 - 💬 Telegram: [@publichthrone547](https://t.me/publichthrone547)
-
----
-
-## 🇹🇲 Flag of Turkmenistan
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg" alt="Turkmenistan Flag" width="200"/>
-
----
-
-⭐️ If you like my work, don’t forget to star ⭐️ my projects!
