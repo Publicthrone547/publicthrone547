@@ -22,7 +22,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-00C4B0?style=for-the-badge)
 
----
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-000000?style=for-the-badge)
 
