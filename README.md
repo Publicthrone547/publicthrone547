@@ -1,5 +1,5 @@
 # Hi! I'm OmarX
-
+# <img src="https://img.shields.io/badge/OmarX-000000?style=for-the-badge&logo=appveyor&logoColor=white" alt="OmarX">
 > 💻 Backend developer & bot maker.  
 > 🚀 Always open to exciting projects and collaborations!
 
