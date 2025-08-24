@@ -115,6 +115,6 @@
 ---
 
 ## 📬 Contact Me
-![OmarX](https://img.shields.io/badge/Omar-X-000000?style=for-the-badge&logo=github&logoColor=white)
+![X OmarX](https://img.shields.io/badge/X_OmarX-000000?style=for-the-badge&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:publicthrone547@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/publichthrone547)  
