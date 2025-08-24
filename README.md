@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/165716978?v=4" width="80" height="80" style="border-radius:50%;" alt="OmarX Logo">
-  <img src="https://img.shields.io/badge/OmarX-000000?style=for-the-badge&logo=appveyor&logoColor=white" alt="OmarX">
-</p>
+# Hi! I'm OmarX
+> <img src="https://img.shields.io/badge/OmarX-000000?style=for-the-badge&logo=appveyor&logoColor=white" alt="OmarX"> 
 > 💻 Backend developer & bot maker.  
 > 🚀 Always open to exciting projects and collaborations!
 
 ---
 
 ## ✨ About Me
+- <img src="https://img.shields.io/badge/OmarX-000000?style=for-the-badge&logo=appveyor&logoColor=white" alt="OmarX"> 
 - 🔹 Python (Flask, FastAPI)  
 - 🤖 Telegram bots with Python-Aiogram, Go-TeleBot  
 - 🔹 Golang (Gin)  
@@ -118,5 +117,6 @@
 ---
 
 ## 📬 Contact Me
+<img src="https://img.shields.io/badge/OmarX-000000?style=for-the-badge&logo=appveyor&logoColor=white" alt="OmarX">
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:publicthrone547@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/publichthrone547)  
