@@ -1,22 +1,22 @@
 # Hi! I'm OmarX
-> 💻 Backend developer & bot maker.  
-> 🚀 Always open to exciting projects and collaborations!
+> Backend developer & bot maker.  
+> Always open to exciting projects and collaborations!
 
 ---
 
-## ✨ About Me
-- 🔹 Python (Flask, FastAPI)  
-- 🤖 Telegram bots with Python-Aiogram, Go-TeleBot  
-- 🔹 Golang (Gin)  
-- 🎨 Frontend: Vue.js & Nuxt.js  
-- 🗄 PostgreSQL — database  
-- 🧠 Adding AI integrations to websites & bots (OpenAI, ChatGPT, Google Gemini API)  
+## About Me
+- Python (Flask, FastAPI)  
+- Telegram bots with Python-Aiogram, Go-TeleBot  
+- Golang (Gin)  
+- Frontend: Vue.js & Nuxt.js  
+- PostgreSQL — database  
+- Adding AI integrations to websites & bots (OpenAI, ChatGPT, Google Gemini API)  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 🐍 Backend
+### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -28,7 +28,7 @@
 
 ---
 
-### 🎨 Frontend
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -48,7 +48,7 @@
 
 ---
 
-### 🗄 Databases
+### Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -56,7 +56,7 @@
 
 ---
 
-### ☁️ Cloud & Hosting
+### Cloud & Hosting
 ![SSH](https://img.shields.io/badge/SSH-333333?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -66,7 +66,7 @@
 
 ---
 
-### 🤖 AI Integrations
+### AI Integrations
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -74,7 +74,7 @@
 
 ---
 
-### 🔧 Tools & Utilities
+### Tools & Utilities
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -98,23 +98,19 @@
 
 ### 🐧 OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 ---
 
-## 📂 What I Do
-- 🌐 Building REST APIs (FastAPI, Gin)  
-- 🤖 Telegram bots (Aiogram, TeleBot)  
-- 🎨 Web apps with authentication (Vue/Nuxt)  
-- 🗄 Database integration with Postgres & SQLite (migrations, optimization with Alembic)  
-- 🧠 AI integrations: OpenAI, ChatGPT, Gemini API for bots & websites  
+## What I Do
+- Building REST APIs (FastAPI, Gin)  
+- Telegram bots (Aiogram, TeleBot)  
+- Web apps with authentication (Vue/Nuxt)  
+- Database integration with Postgres & SQLite (migrations, optimization with Alembic)  
+- AI integrations: OpenAI, ChatGPT, Gemini API for bots & websites  
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 ![OmarX](https://img.shields.io/badge/OmarX-000000?style=for-the-badge&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:publicthrone547@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/publichthrone547)  
