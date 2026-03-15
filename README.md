@@ -104,8 +104,8 @@
 ## What I Do
 - Building REST APIs (FastAPI, Gin)  
 - Telegram bots (Aiogram, TeleBot)  
-- Web apps with authentication (Vue/Nuxt)  
-- Database integration with Postgres & SQLite (migrations, optimization with Alembic)  
+- Dynamic Web apps (Vue/Nuxt)  
+- Database integration with Postgres (migrations, optimization with Golang-Migrate)  
 - AI integrations: OpenAI, ChatGPT, Gemini API for bots & websites  
 
 ---
